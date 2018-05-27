@@ -18,15 +18,16 @@ module.exports = {
     'storage',
     'notifications',
     'identity',
-    'identity.email'
+    'identity.email',
+    'declarativeContent'
   ],
-  browser_action: {
-    default_title: 'title',
-    default_popup: 'pages/popup.html'
-  },
   background: {
     persistent: false,
     page: 'pages/background.html'
+  },
+  page_action: {
+    default_title: 'title',
+    default_popup: 'pages/popup.html'
   },
   devtools_page: 'pages/devtools.html',
   options_page: 'pages/options.html',
