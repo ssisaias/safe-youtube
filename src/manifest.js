@@ -1,9 +1,9 @@
 
 module.exports = {
-  name: 'Vue Extension',
+  name: 'Safe Youtube',
   version: '1.0.0',
-  description: 'Vue.js Chrome Extension Template (wcer)',
-  author: 'yura',
+  description: 'Extensao do chrome para avaliar nivel de comentários ruins em um vídeo.',
+  author: 'Isaias S. Silva',
   manifest_version: 2,
   icons: { '16': 'icons/16.png', '128': 'icons/128.png' },
   permissions: [

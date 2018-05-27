@@ -1,8 +1,8 @@
 {
-  "name": "vue-chrome-extension-template",
-  "version": "0.0.1",
-  "description": "vue.js chrome extension template (wcer)",
-  "author": "works.yura@gmail.com",
+  "name": "safe-youtube",
+  "version": "1.0.0",
+  "description": "Extensao do chrome para avaliar nivel de comentários ruins em um vídeo. Based on: https://github.com/YuraDev/vue-chrome-extension-template",
+  "author": "luiz.isaias95@gmail.com",
   "license": "MIT",
   "private": false,
   "dependencies": {
