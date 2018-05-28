@@ -53,7 +53,7 @@
             }
           } else if (response.status === 202) {
             vm.loading = false
-            vm.error_message = 'Este vídeo não está disponível, vamos tentar classificá-lo! Tente novamente em alguns minutos!'
+            vm.error_message = 'Os comentários deste vídeo ainda não foram avaliados. Tente novamente mais tarde.'
           } else {
             vm.loading = false
             vm.error_message = 'Problemas ao processar dados do servidor! ' + response.status
@@ -62,8 +62,8 @@
         })
           .catch(e => {
             console.log(e)
-            this.error_message = e.message
-            this.loading = false
+            vm.error_message = e.message
+            vm.loading = false
           })
       })
     },
