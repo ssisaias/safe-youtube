@@ -33,7 +33,7 @@
     "buble-loader": "^0.5.1",
     "clean-webpack-plugin": "^0.1.17",
     "copy-webpack-plugin": "^4.6.0",
-    "cross-env": "^5.1.0",
+    "cross-env": "^7.0.2",
     "css-loader": "^0.28.7",
     "enhanced-resolve": "^4.1.1",
     "eslint": "^4.9.0",
