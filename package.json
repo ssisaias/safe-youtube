@@ -55,7 +55,7 @@
     "optimize-css-assets-webpack-plugin": "^4.0.0",
     "pug": "^2.0.0-rc.4",
     "pug-loader": "^2.3.0",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^7.3.1",
     "url-loader": "^1.1.2",
     "vue-loader": "^15.9.1",
     "vue-style-loader": "^3.0.3",
