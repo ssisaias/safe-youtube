@@ -7,7 +7,7 @@
   "private": false,
   "dependencies": {
     "axios": "^0.19.2",
-    "element-ui": "^2.0.1",
+    "element-ui": "^2.13.1",
     "vue": "^2.6.11",
     "lodash": "^4.17.15",
     "vue-meta": "^2.3.3",
