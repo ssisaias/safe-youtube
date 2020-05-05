@@ -37,7 +37,7 @@
     "css-loader": "^0.28.7",
     "enhanced-resolve": "^4.1.1",
     "eslint": "^4.9.0",
-    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard": "^11.0.0",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^1.9.0",
     "eslint-plugin-html": "^3.2.2",
