@@ -35,7 +35,7 @@
     "copy-webpack-plugin": "^4.6.0",
     "cross-env": "^7.0.2",
     "css-loader": "^0.28.7",
-    "enhanced-resolve": "^4.1.1",
+    "enhanced-resolve": "^4.2.0",
     "eslint": "^4.9.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-friendly-formatter": "^4.0.1",
