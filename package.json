@@ -57,7 +57,7 @@
     "pug-loader": "^2.3.0",
     "sass-loader": "^7.3.1",
     "url-loader": "^1.1.2",
-    "vue-loader": "^15.9.2",
+    "vue-loader": "^15.9.3",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.11",
     "wcer": "^1.0.2",
