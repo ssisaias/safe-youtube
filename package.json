@@ -63,7 +63,7 @@
     "wcer": "^1.0.2",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^3.11.0",
-    "webpack-merge": "^4.2.2",
+    "webpack-merge": "^5.0.4",
     "ws": "^7.3.0"
   }
 }
